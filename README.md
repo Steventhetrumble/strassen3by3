@@ -21,4 +21,4 @@ cost is progressing. <p>
 >    <p>purge_best = True<p>
 
 
-<p>  If you run with dimension of 3 and 23 multipications, you will see that 240 dimensions likely isn't enough <p>
+<p>  If you run with dimension of 3 and 23 multipications, you will see that 240 generations likely isn't enough <p>
